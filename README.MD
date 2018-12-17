@@ -14,14 +14,7 @@ rnn_predicter.py uses LSTM model.It use 10 trades as input ,if the next price is
 So,the [1,0,0] means that the price of Bitcoin will be higher.
 
 ##  Result
-https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/training_result.md
-
-##  More
-FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version).
-https://github.com/fendouai/FaceRank
-
-## Blog
-http://www.tensorflownews.com/
+https://github.com/ferzl123/chatbot-for-bitcoin-trade-robot/master/README.MD
 
 ## Update
 
