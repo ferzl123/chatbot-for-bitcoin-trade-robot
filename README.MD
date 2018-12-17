@@ -1,9 +1,8 @@
 
 
 ##  Into
-A Bitcoin trade robot based on Tensorflow LSTM model.
+A Bitcoin trade robot based on Tensorflow LSTM model.The robot can show you the latest bitcoin trades and some basic conversation.
 
-##  DataSet
 The data is got from https://api.btctrade.com/api/trades?coin=btc with requests.It includes 50 trades of Bitcoin.
 get_trades.py will get the trades and show you with a picture.
 
